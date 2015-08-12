@@ -1,0 +1,4 @@
+[15-Mar-2014 11:43:38] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/back-end/content.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/acpconf1/public_html/headerList.php on line 2
+[04-Sep-2014 22:19:36] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/acpconf1/public_html/back-end/content.php on line 1144
+[04-Sep-2014 22:20:26] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/acpconf1/public_html/back-end/content.php on line 1144
+[04-Sep-2014 22:20:34] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/acpconf1/public_html/back-end/content.php on line 1144
